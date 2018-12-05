@@ -1,3 +1,3 @@
 # ali-salon
 
-I am creating a salon website for my salon.
+I created a website for my salon.
