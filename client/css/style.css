@@ -2,7 +2,7 @@ img {
   width: 100%;
 }
 
-.landing {
+.background {
   position: relative;
   background: url('../img/https://stock.adobe.com/Library/eb4532da-1a60-4619-8370-3583f94728ce.jpg') no-repeat;
   background-size: cover;
@@ -12,7 +12,7 @@ img {
   margin-bottom: -50px;
 }
 
-.landing-inner {
+.background-inner {
   padding-top: 80px;
 }
 
