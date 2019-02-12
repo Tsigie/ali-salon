@@ -1,11 +1,12 @@
 import Express from "express";
+import Login from "react-dom";
+import Salon from "react-dom";
+import Customer from "react-dom";
+import d3_geo from "d3_geo";
+import Passport from "passport";
 
 
-app.useExpress.js;
-app.useMain.js;
-app.useSalon.js;
-app.useLogin.js;
-app.useLogout.js;
+
 
 
 
